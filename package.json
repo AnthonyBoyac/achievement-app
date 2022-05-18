@@ -1,0 +1,23 @@
+{
+  "name": "achievement-app",
+  "version": "1.0.0",
+  "description": "Gamified todo-list that is personalized to me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyBoyac/achievement-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyBoyac/achievement-app/issues"
+  },
+  "homepage": "https://github.com/AnthonyBoyac/achievement-app#readme",
+  "dependencies": {
+    "babylonjs": "^5.5.6"
+  }
+}
